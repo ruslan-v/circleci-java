@@ -1,4 +1,5 @@
 machine:
-
   timezone:
     UTC
+  java:
+    version: 1.8
